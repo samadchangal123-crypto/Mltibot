@@ -1,0 +1,38 @@
+{
+  "1237355231943244": {
+    "name": {
+      "active": true,
+      "value": "Bot Testing"
+    },
+    "dp": {
+      "active": true,
+      "localPath": "/home/runner/workspace/script/cache/lockdp_1237355231943244.jpg"
+    },
+    "emoji": {
+      "active": true,
+      "value": "👍"
+    },
+    "theme": {
+      "active": true,
+      "value": "4332864203656972"
+    }
+  },
+  "2059604701280450": {
+    "theme": {
+      "active": true,
+      "value": "1440238847056619"
+    },
+    "dp": {
+      "active": true,
+      "localPath": "/home/runner/workspace/script/cache/lockdp_2059604701280450.jpg"
+    },
+    "emoji": {
+      "active": true,
+      "value": "😭"
+    },
+    "name": {
+      "active": true,
+      "value": "😒"
+    }
+  }
+}
